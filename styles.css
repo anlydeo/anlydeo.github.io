@@ -266,6 +266,7 @@ main {
 .about__desc {
   font-size: 1rem;
   max-width: 600px;
+  text-align: justify;
 }
 
 .about__desc,
@@ -303,6 +304,7 @@ main {
 
 .project__description {
   margin-top: 1em;
+  text-align: justify;
 }
 
 .project__stack {
